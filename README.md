@@ -4,3 +4,5 @@ git status
 git status 
 echo "AAA" >> README.md
 git status
+echo " a line" >> README.md
+git status 
